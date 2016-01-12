@@ -1,0 +1,3 @@
+New version 109a fixes many bugs and takes advantage of upgrades in PHP.
+
+Searching for a professional looking, feature rich web based student management package for your school? Want to manage one school or more than one school? When a child is absent, wouldn't it be nice if the system emailed the parents? How about if a parent could login and get their child's report card? A student has just had a discipline event, the parent is immediately emailed. All with discussion forums, full health module built in. Clean, professional, very easy to use and setup, yet powerful. Print reports in HTML or in PDF.
